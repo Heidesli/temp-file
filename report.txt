@@ -1,0 +1,33 @@
+1823 Efficiency Office	                                                      	       	          	        	        	                                	           	              	                                    
+Entry Records Report  	                                                      	       	          	        	        	                                	           	              	                                    
+Entry Date Range      	2021-07-01 -- 2021-07-19                              	       	          	        	        	                                	           	              	                                    
+Condition             	Device ID + Panel ID + Card ID + Date/Time (Ascending)	       	          	        	        	                                	           	              	                                    
+Record                	All records                                           	       	          	        	        	                                	           	              	Report Printed : 2021-07-22 15:04:42
+Cardholder ID         	Name                                                  	Card ID	Date      	Time    	In / Out	Device ID (Panel ID + Device ID)	Temperature	Face Mask(Y/N)	Status                              
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-02	11:23:02	Out     	KGO6-FR05 - 1                   	35.37      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-02	11:23:02	Out     	KGO6-FR05 - 1                   	35.37      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-03	11:43:03	Out     	KGO6-FR05 - 1                   	35.29      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-05	07:45:05	Out     	KGO6-FR05 - 1                   	35.45      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-07	07:50:07	Out     	KGO6-FR05 - 1                   	35.65      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-08	08:01:08	Out     	KGO6-FR05 - 1                   	35.08      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-16	08:02:16	Out     	KGO6-FR05 - 1                   	35.88      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-17	08:00:17	Out     	KGO6-FR05 - 1                   	35.89      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	01091  	2021-07-19	08:01:19	Out     	KGO6-FR05 - 1                   	35.39      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	91134  	2021-07-09	07:50:09	Out     	KGO6-FR05 - 1                   	35.44      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	91134  	2021-07-14	08:26:14	Out     	KGO6-FR05 - 1                   	35.86      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	91134  	2021-07-15	08:06:15	Out     	KGO6-FR05 - 1                   	35.42      	              	Access granted                      
+01091                 	Wong Ming Ka Celina                                   	91134  	2021-07-15	08:06:15	Out     	KGO6-FR05 - 1                   	35.39      	              	Access granted                      
+Records : 13          	                                                      	       	          	        	        	                                	           	              	                                    
+< End of Report >     	                                                      	       	          	        	        	                                	           	              	                                    
+
+
+
+RECNO	Device_id	Panel_id	Card_inte_no	Card_inte_no_hex	Card_ext_no	Cardholder_id	Name	Depa_desc	Entry_dt	Rec_type	IO_status	Reader_id	ADD_DT	Remark	GPS_lat	GPS_long	Device_type	IsMask	SenseTimeRecordID
+98410	KGO6-FR05	1	91134	00000000000163FE	91134	01091	Wong Ming Ka Celina	NULL	2021-07-14 08:26:14.000	0	0	1	2021-07-14 08:26:39.323	35.86	NULL	NULL	13	NULL	18085
+104905	KGO6-FR05	1	91134	00000000000163FE	91134	01091	Wong Ming Ka Celina	NULL	2021-07-15 08:06:15.000	0	0	1	2021-07-15 08:06:18.700	35.42	NULL	NULL	13	NULL	18495
+104906	KGO6-FR05	1	91134	00000000000163FE	91134	01091	Wong Ming Ka Celina	NULL	2021-07-15 08:06:15.000	0	0	1	2021-07-15 08:06:18.727	35.39	NULL	NULL	13	NULL	18494
+112115	KGO6-FR05	1	01091	0000000000000443	01091	01091	Wong Ming Ka Celina	NULL	2021-07-16 08:02:16.000	0	0	1	2021-07-16 08:02:17.617	35.88	NULL	NULL	13	NULL	18965
+119050	KGO6-FR05	1	01091	0000000000000443	01091	01091	Wong Ming Ka Celina	NULL	2021-07-17 08:00:17.000	0	0	1	2021-07-17 08:01:01.863	35.89	NULL	NULL	13	NULL	19469
+124736	KGO6-FR05	1	01091	0000000000000443	01091	01091	Wong Ming Ka Celina	NULL	2021-07-19 08:01:19.000	0	0	1	2021-07-19 08:01:40.807	35.39	NULL	NULL	13	NULL	20060
+132271	KGO6-FR05	1	01091	0000000000000443	01091	01091	Wong Ming Ka Celina	NULL	2021-07-20 08:17:20.000	0	0	1	2021-07-20 08:17:16.930	35.32	NULL	NULL	13	NULL	20616
+132272	KGO6-FR05	1	01091	0000000000000443	01091	01091	Wong Ming Ka Celina	NULL	2021-07-20 08:17:20.000	0	0	1	2021-07-20 08:17:16.953	35.3	NULL	NULL	13	NULL	20615
